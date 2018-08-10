@@ -1,1 +1,1 @@
-# Shopping Carte React with Flux
+# Shopping Cart React with Flux
