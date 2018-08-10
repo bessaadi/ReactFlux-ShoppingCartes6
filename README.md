@@ -1,1 +1,1 @@
-** Shopping Carte React with Flux
+**Shopping Carte React with Flux
